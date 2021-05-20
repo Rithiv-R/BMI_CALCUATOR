@@ -3,9 +3,9 @@
 A new Flutter project.
 
 ## Screenshots
-![HOME](assets\HomePage.jpg)
+![HOME](assets/HomePage.jpg)
 
-![RESULT](assets\ResultPage.jpg)
+![RESULT](assets/ResultPage.jpg)
 
 ## Getting Started
 
